@@ -1,0 +1,42 @@
+body {
+    background-image: url(../img/makoto.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; 
+    background-color: rgba(255, 255, 255, 0);
+    background-blend-mode: hard-light;
+    
+}
+.end{
+    font-size: 25pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(255, 255, 255); 
+}
+.kasi{
+    font-size: 40pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(255, 255, 255, 0.842); 
+    text-align: center;
+}
+.ps{
+    font-size: 20pt;
+    color: rgb(255, 255, 255); 
+    text-align: center;
+}
+.button{
+    font-size: 30pt;
+    text-align: center;
+    color: rgb(255, 255, 255); 
+}
+.last{
+    font-size: 60pt;
+    color: rgb(255, 255, 255);
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    transform: translateY(-70%) translateX(-50%);
+
+    text-align: center;
+}
